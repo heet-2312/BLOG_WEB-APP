@@ -5,4 +5,6 @@ TECH STACK:
 -HTML/CSS/BOOTSTRAP.                                                                                                            
 -NODE
 -EXPRESS.                                                                                                                        
--MONGODB
+-MONGODB                                                                                                                          
+
+run npm install to download the dependencies of package-json file.
